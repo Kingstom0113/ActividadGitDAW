@@ -1,0 +1,12 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Carpeta generada por Visual Studio Code
+.vscode/
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
